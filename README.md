@@ -28,8 +28,8 @@ O modelo foi avaliado utilizando várias métricas:
 ## Como Executar o Projeto
 ### Treinando o Modelo:
 1. Clone este repositório.
-2. Instale as dependências necessárias: `pip install -r requirements.txt`
-3. Execute o notebook `train_model.ipynb` para treinar o modelo.
+2. Instale as dependências necessárias
+3. Execute o notebook `predict_model.ipynb` para treinar o modelo.
 
 ### Fazendo Previsões com o Modelo:
 1. Use o notebook `predict_model.ipynb` para carregar os pesos salvos e realizar previsões nos dados de teste.

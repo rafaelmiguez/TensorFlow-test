@@ -36,6 +36,5 @@ O modelo foi avaliado utilizando várias métricas:
 2. Os pesos do modelo estão salvos no arquivo `fashion_mnist_model.h5`.
 
 ## Estrutura do Repositório
-- **train_model.ipynb**: Notebook Jupyter para treinar o modelo.
-- **predict_model.ipynb**: Notebook Jupyter para carregar os pesos do modelo e fazer previsões.
+- **predict_model.ipynb**: Notebook Jupyter para treinar o modelo, carregar os pesos do modelo e fazer previsões.
 - **fashion_mnist_model.h5**: Pesos pré-treinados do modelo.
